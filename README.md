@@ -1,2 +1,1 @@
-# teste
-teste
+# First install pygame
